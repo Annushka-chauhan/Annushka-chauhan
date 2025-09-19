@@ -33,8 +33,7 @@ class WhoAmI:
         return ["Become a great software engineer 💻", "Build impactful projects 🚀"]
     def achievements():
         return [
-            "Technical Operations Member at Salaah - The Mentor Community",
-            "Core Member at Environ Club 🌿"
+            ""
         ]
 
     
