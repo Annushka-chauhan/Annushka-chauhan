@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+Anushka Chauhan;I+Love+Coding;+Web+Developer;Love+Building+Projects;Problem+Solver;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+Shubham+Chaudhary;I+Love+Coding;+Web+Developer;Love+Building+Projects;Problem+Solver;">
 </p>
 
 ---
@@ -13,7 +13,7 @@
 
 python
 class WhoAmI:
-    user = "Anushka Chauhan"
+    user = "Shubham Chaudhary"
     current_edu = "Pursuing B.Tech in Data Science"
     currently_learning = "MERN Stack, exploring open-source"
     status = "Open to exciting projects & collabs"
@@ -22,7 +22,10 @@ class WhoAmI:
     hobbies = [
         "Listening to music 🎧",
         "Chilling with friends 😎",
-        "Horror movies & documentaries 🍿",
+        "Gaming 🎮",
+        "Thriller movies & documentaries 🍿",
+        "Tennis 🎾",
+        "Photography 📸",
         "Traveling 🌍"
     ]
 
@@ -31,13 +34,16 @@ class WhoAmI:
 
     def ambitions():
         return ["Become a great software engineer 💻", "Build impactful projects 🚀"]
+
     def achievements():
         return [
             "Technical Operations Member at Salaah - The Mentor Community",
             "Core Member at Environ Club 🌿"
         ]
 
-    
+		
+	
+ 
 
 
 <div align="center">
@@ -68,9 +74,9 @@ class WhoAmI:
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anushka-chauhan-a68457296/"><img alt="Linkedin" title="Anushka Chauhan Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Annushka-chauhan"><img alt="Github" title="Anushka Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
- <a href="https://www.instagram.com/anu.shkachauhan1/"><img alt="Instagram" title="Anushka" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/shubham-chaudhary-46605a297/"><img alt="Linkedin" title="Shubham Chaudhary Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/shubhlc194"><img alt="Github" title="Shubham Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+ <a href="https://www.instagram.com/shubham_.__choudhary"><img alt="Instagram" title="Shubham chaudhary" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 </p>
 
