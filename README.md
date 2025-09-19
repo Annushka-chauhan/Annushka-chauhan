@@ -40,10 +40,10 @@ class WhoAmI:
 
 	
 	
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhlc194&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubhlc194&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubhlc194&theme=nord_bright&)
-![](https://github-readme-streak-stats.herokuapp.com/?user=shubhlc194&theme=vue&hide_border=true)	
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Annushka-chauhan&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Annushka-chauhan&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Annushka-chauhan&theme=nord_bright&)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Annushka-chauhan&theme=vue&hide_border=true)	
  <br/>
 </div> 
 <div align="center">
