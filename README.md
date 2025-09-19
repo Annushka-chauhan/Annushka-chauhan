@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+Shubham+Chaudhary;I+Love+Coding;+Web+Developer;Love+Building+Projects;Problem+Solver;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+Anushka Chauhan;I+Love+Coding;+Web+Developer;Love+Building+Projects;Problem+Solver;">
 </p>
 
 ---
@@ -32,15 +32,7 @@ class WhoAmI:
     def ambitions():
         return ["Become a great software engineer 💻", "Build impactful projects 🚀"]
 
-    def achievements():
-        return [
-            "Technical Operations Member at Salaah - The Mentor Community",
-            "Core Member at Environ Club 🌿"
-        ]
-
-		
-	
- 
+    
 
 
 <div align="center">
